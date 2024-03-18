@@ -1,3 +1,5 @@
+![alt text](https://github.com/lauren1117/PPVAnalyzer/blob/main/KALE%20Logo.png)
+
 ## Project Set Up Instructions
 
 1. Check versions:
