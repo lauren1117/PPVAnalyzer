@@ -1,4 +1,7 @@
-![alt text](https://github.com/lauren1117/PPVAnalyzer/blob/main/KALE%20Logo.png)
+<p align="center">
+  <img width="300" height="300" src="https://github.com/lauren1117/PPVAnalyzer/blob/main/KALE%20Logo.png">
+</p>
+
 
 ## Project Set Up Instructions
 
