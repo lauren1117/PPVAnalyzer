@@ -146,7 +146,7 @@ const Classifier = () => {
       {selectedOption === "camera" && (
         <>
           <video ref={videoRef} hidden={!streamStarted} autoPlay />
-          <canvas ref={canvasRef} hidden={!streamStarted}></canvas>
+          <canvas ref={canvasRef} hidden></canvas>
         </>
       )}
       {selectedOption === "file" && (
